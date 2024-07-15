@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.money-details-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.money-detail-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #ecfccb;
+  border-radius: 10px;
+}
+
+.money-detail-item img {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.money-detail-item p {
+  margin: 0;
+  font-size: 18px;
+}
